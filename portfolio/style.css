@@ -30,7 +30,7 @@ nav{
     display: flex;
     position: sticky;
     z-index: 1000;
-    background-color:rgba(255, 248, 185, 0.897) ;
+    background-color:rgba(255, 250, 143, 0.85);
     top: 0;
     align-items: center;
     justify-content: space-between;
